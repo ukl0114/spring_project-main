@@ -70,9 +70,7 @@ header #search .btn1 {
 	height: 30px; color: #ffffff; margin-left: 2px; background-color: #333333;
 	transform: translate(470px, 16px);
 }
-.btn1:hover{
-	cursor: pointer;
-}
+
 /*카테고리전체*/
 aside {
 	width: 205px; float: left; margin-left: -400px;
